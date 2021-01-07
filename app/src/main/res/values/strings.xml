@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC Calculator Simples !</string>
+    <string name="texto_entrada">Bem-Vindo ao IMC Calculator Simples !</string>
+    <string name="entrada_altura">Informe sua Altura (ex: 1,70)</string>
+    <string name="entrada_peso">Informe seu peso (ex: 60)</string>
+    <string name="said_imc">Seu IMC é: </string>
+    <string name="modo_noturno">Ativa/Desativa modo noturno </string>
+    <string name="botao_continua">Continuar </string>
+    <string name="msg_desenvolvedor">Programado por: Renan Alencar Dores </string>
+    <string name="git_hub">GitHub: @AlenRenan </string>
+</resources>
